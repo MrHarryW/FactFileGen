@@ -5,3 +5,5 @@ age = int(input("Please enter your current age: "))
 days = age * 365
 minutes = age * 525948
 minutes = age * 525948
+
+print("\n\n"+lastname.capitalize()+",", firstname.capitalize())
