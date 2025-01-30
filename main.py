@@ -9,3 +9,4 @@ minutes = age * 525948
 print("\n\n"+lastname.capitalize()+",", firstname.capitalize())
 print("This is a fact file on",lastname.capitalize()+",", firstname.capitalize()+"\n")
 print("NAME:")
+print("First Name:", firstname.capitalize())
