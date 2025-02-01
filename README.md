@@ -28,17 +28,25 @@ Please enter your first name: John
 Please enter your last name: Doe  
 Please enter your current age: 25  
 
-Doe, John  
-This is a fact file on Doe, John  
+Doe, John
+This is a fact file on Doe, John
 
-NAME:  
-First Name: John  
-Last Name: Doe  
+NAME:
+First Name: John
+Last Name: Doe
 
-AGE:  
-Days Old: 9125  
-Minutes Old: 13148700  
-Seconds Old: 788923150  
+AGE:
+Decades Old: 2
+Years Old: 25
+Months Old: 300
+Weeks Old: 1300
+Days Old: 9125
+Hours Old: 219000
+Minutes Old: 13140000
+Seconds Old: 788400000
+Milliseconds Old: 788400000000
+Microseconds Old: 788400000000000
+Nanoseconds Old: 788400000000000000 
 ```  
 
 ## Why I Made This  
@@ -46,7 +54,5 @@ Seconds Old: 788923150
 This script is a **simple and fun Python project** that helps users see time in a new way! It was created to practice user input, calculations, and formatted output in Python.  
 
 ## Future Enhancements  
-
-- 📆 Add **months and weeks calculation**.  
-- ⏰ Include **hours old** for more accuracy.  
+- 🕸️ A **web-page** to allow for **eaier use**.
 - 📊 Display data in a **graphical format**.  
