@@ -5,7 +5,7 @@ This is a simple Python script that generates a **fact file** based on a user's 
 ## Features  
 
 - 📝 **User Input** – Collects first name, last name, and age.  
-- ⏳ **Age Calculation** – Converts age into **days, minutes, and seconds**.  
+- ⏳ **Age Calculation** – Converts age into **centuries, decades, years, months, weeks, days, minutes, seconds, milliseconds, microseconds and nanoseconds**.  
 - 🔤 **Formatted Output** – Displays a neatly structured fact file.  
 
 ## Getting Started  
