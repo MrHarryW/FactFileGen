@@ -36,6 +36,7 @@ First Name: John
 Last Name: Doe
 
 AGE:
+Centuries Old: 0
 Decades Old: 2
 Years Old: 25
 Months Old: 300
