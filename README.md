@@ -1,6 +1,6 @@
 # Fact File Generator 📄✨  
 
-This is a simple Python script that generates a **fact file** based on a user's name and age. It calculates how many **days, minutes, and seconds** they have been alive, providing a fun and interactive way to explore time!  
+This is a simple Python script that generates a **fact file** based on a user's name and age. It calculates how many **centuries, decades, years, months, weeks, days, minutes, seconds, milliseconds, microseconds and nanoseconds** they have been alive, providing a fun and interactive way to explore time!  
 
 ## Features  
 
