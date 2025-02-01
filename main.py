@@ -4,7 +4,7 @@ lastname = input("Please enter your last name: ")
 age = int(input("Please enter your current age: "))
 days = age * 365
 minutes = age * 525948
-minutes = age * 525948
+seconds = minutes * 60
 
 print("\n\n"+lastname.capitalize()+",", firstname.capitalize())
 print("This is a fact file on",lastname.capitalize()+",", firstname.capitalize()+"\n")
