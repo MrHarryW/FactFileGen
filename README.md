@@ -55,5 +55,5 @@ Nanoseconds Old: 788400000000000000
 This script is a **simple and fun Python project** that helps users see time in a new way! It was created to practice user input, calculations, and formatted output in Python.  
 
 ## Future Enhancements  
-- 🕸️ A **web-page** to allow for **eaier use**.
+- 🕸️ A **web-page** to allow for **easier use**.
 - 📊 Display data in a **graphical format**.  
