@@ -6,7 +6,8 @@ This is a simple Python script that generates a **fact file** based on a user's 
 
 - 📝 **User Input** – Collects first name, last name, and age.  
 - ⏳ **Age Calculation** – Converts age into **centuries, decades, years, months, weeks, days, minutes, seconds, milliseconds, microseconds and nanoseconds**.  
-- 🔤 **Formatted Output** – Displays a neatly structured fact file.  
+- 🔤 **Formatted Output** – Displays a neatly structured fact file.
+- 📊 Display data in a **graphical format**.  
 
 ## Getting Started  
 
@@ -56,4 +57,3 @@ This script is a **simple and fun Python project** that helps users see time in 
 
 ## Future Enhancements  
 - 🕸️ A **web-page** to allow for **easier use**.
-- 📊 Display data in a **graphical format**.  
